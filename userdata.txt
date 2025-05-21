@@ -1,0 +1,7 @@
+92331;Supplier;Habibur Rahman;hbrahman;123123;19;Male;bashundhara, dhaka,1229;01976006677
+63841;Client;Lionel Messi;lm10;lm10;34;Male;Bshundhara;01788659847
+66019;Client;Cristiano Ronaldo;cr7;cr7;36;Male;Uttara, Bangladesh;01745896325
+31300;Supplier;Abul Mia;abulmia;ab123;34;Male;Banani;01397458125
+20980;Supplier;Lal Mia;lalu;lal123;24;Male;Dhanmondi;01758282654
+51012;Dealer;Dipjol Khan;dipjol;dip123;45;Male;Puran Dhaka;0178965478
+84003;Client;a;abc;123;23;Male;jankdjasd;6454654
